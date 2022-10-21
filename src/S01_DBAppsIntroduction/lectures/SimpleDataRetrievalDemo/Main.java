@@ -1,4 +1,4 @@
-package com.company;
+package S01_DBAppsIntroduction.lectures.SimpleDataRetrievalDemo;
 
 import java.sql.*;
 import java.util.Properties;
